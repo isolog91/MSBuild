@@ -1,9 +1,0 @@
-E:\Publish\ConsoleApp\UnitTestProject\bin\Debug\UnitTestProject.dll
-E:\Publish\ConsoleApp\UnitTestProject\bin\Debug\UnitTestProject.pdb
-E:\Publish\ConsoleApp\UnitTestProject\bin\Debug\ConsoleApp.exe
-E:\Publish\ConsoleApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-E:\Publish\ConsoleApp\UnitTestProject\bin\Debug\ConsoleApp.pdb
-E:\Publish\ConsoleApp\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
-E:\Publish\ConsoleApp\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
-E:\Publish\ConsoleApp\UnitTestProject\obj\Debug\UnitTestProject.dll
-E:\Publish\ConsoleApp\UnitTestProject\obj\Debug\UnitTestProject.pdb
